@@ -4,7 +4,7 @@
   "description": "Silverwolf from Honkai starrail",
   "publisher": "PlutonicVoid",
   "repository": "https://github.com/ThanatosSystemOmegaVI/silverwolf-theme",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.97.0"
   },
